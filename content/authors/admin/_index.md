@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Guillermo Lezama
 
 # Full name (for SEO)
 first_name: Guillermo
@@ -35,8 +35,11 @@ education:
     - course: MA in Economics
       institution: University of Pittsburgh
       year: 2020
+    - course: MSc. in International Economics
+      institution: Universidad de la República (Uruguay)
+      year: 2019
     - course: BA in Economics
-      institution: Universidad de la República
+      institution: Universidad de la República (Uruguay)
       year: 2013
 
 # Social/Academic Networking
@@ -76,9 +79,9 @@ email: gul30@pitt.edu
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Ph.D. student in Economics at the University of Pittsburgh. I am from Uruguay and I previously studied at the Universidad de la República (Udelar)
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in Political Economy and the different approaches that could be used to address Political Economy questions: Economic History and Applied Microeconomics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
