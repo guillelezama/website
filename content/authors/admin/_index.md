@@ -10,7 +10,7 @@ last_name: Lezama
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Economics
+role: Ph.D. Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.econ.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Political Economy and the different approaches that could be used to address Political Economy questions: Economic History and Applied Microeconomics. I am particularly interested in using text data sources in my research.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:guillelezama@pitt.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillelezama
@@ -84,4 +84,3 @@ I am a Ph.D. student in Economics at the University of Pittsburgh. I am from Uru
 I am interested in Political Economy and the different approaches that could be used to address Political Economy questions: Economic History and Applied Microeconomics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
