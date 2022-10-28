@@ -28,8 +28,8 @@ content:
   email: guillelezama@pitt.edu
   phone: ''
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: 230 South Bouquet Street
+    city: Pittsburgh
     region: PA
     postcode: '15260'
     country: United States
