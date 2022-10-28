@@ -9,6 +9,6 @@ date: "2022-10-27T00:00:00Z"
 external_link: https://github.com/guillelezama/soccer_relative_age
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Graphs made by the author
   focal_point: Smart
 ---
