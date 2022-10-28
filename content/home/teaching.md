@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Intro to International Economics
- #   icon: [upitt](https://www.brand.pitt.edu/sites/default/files/screencapture-file-users-wholey-downloads-pitt-guidelines-final-july2019-pdf-2019-08-02-14_51_41.png)
-  #  icon_pack: fab
+    icon: (https://www.brand.pitt.edu/sites/default/files/screencapture-file-users-wholey-downloads-pitt-guidelines-final-july2019-pdf-2019-08-02-14_51_41.png)
+    icon_pack: custom
     name: Econ 0500
     url: 'uploads/ECON0500_S22.pdf'
 # Uncomment to use emoji icons.
