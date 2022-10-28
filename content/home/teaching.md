@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Teaching
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Intro to International Economics
-    icon: upitt
+    icon: [upitt](https://www.brand.pitt.edu/sites/default/files/screencapture-file-users-wholey-downloads-pitt-guidelines-final-july2019-pdf-2019-08-02-14_51_41.png)
     icon_pack: fab
     name: Econ 0500
     url: 'uploads/ECON0500_S22.pdf'
