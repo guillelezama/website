@@ -3,11 +3,11 @@ title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
 - admin
 - "Henry Willebald"
-date: "2020"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
