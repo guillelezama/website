@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Relative Age Effect in Uruguayan Soccer Players
+summary: An example of the existance of the Relative Age Effect and an analysis of how this phenomenon is present (and evolves) through youth leagues.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- python
+date: "2022-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/guillelezama/soccer_relative_age
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
