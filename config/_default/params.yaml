@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
+#  theme_day: cyberpunk
   theme_night: cyberpunk
   font: cyberpunk
   font_size: L
