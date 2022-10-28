@@ -1,5 +1,5 @@
 ---
-title: Inequality in pre‐income survey times: a methodological proposal"
+title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
 - admin
 - Henry Willebald
