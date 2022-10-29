@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Progress
 cms_exclude: true
 
 # View.
