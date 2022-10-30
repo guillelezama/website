@@ -15,7 +15,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Government Audits and the Implementation of Transparency Policies"
+publication: ""
 publication_short: ""
 
 abstract: In the last decades, multiple countries have made progress in enacting reforms that make governments more open to the citizens and the private sector. However, many developing countries still struggle to implement these reforms. Could the implementation of these reforms be promoted more effectively? Audits to local governments have been shown to affect several dimensions of government and politicians' activities. This research explores whether audits foster the commitment to higher levels of transparency. To do that, I exploit the random auditing of an anti-corruption program to municipalities and an extensive evaluation program regarding transparency efforts in Brazil. The research finds that municipalities that the Federal Government audited were better at implementing some provisions of the Access to Information Law. However, these differences did not persist over time. The provisions where differences exist are those where the costs are presumably lower.
