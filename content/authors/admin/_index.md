@@ -79,7 +79,7 @@ email: gul30@pitt.edu
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome to my website! I am a Ph.D. student in Economics at the University of Pittsburgh. I am from Uruguay and I previously studied at the Universidad de la República (Udelar)
+Welcome to my website! I am a Ph.D. Candidate in Economics at the University of Pittsburgh. I am from Uruguay and I previously studied at the Universidad de la República (Udelar)
 
 I am interested in Political Economy and the different approaches that could be used to address Political Economy questions: Economic History and Applied Microeconomics.
 
