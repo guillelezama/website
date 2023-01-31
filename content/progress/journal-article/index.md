@@ -22,7 +22,7 @@ abstract: "This paper examines the effect of a program that randomly audits muni
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
