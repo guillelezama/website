@@ -22,7 +22,7 @@ abstract:  This paper examines the effect of a program that randomly audits muni
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  This paper examines the effect of a program that randomly audits municipalities for their use of federal funds on politicians' proposals in Brazil. Using 11,400 manifestos for mayoral elections, I find that the audits caused opposition parties in high-corruption cities to discuss the policy areas covered by the audit. In low-corruption cities, the opposition parties discussed fewer bureaucratic issues, while the incumbents discussed them more. Incumbents in corrupt municipalities used more populist language if they were audited before the election. These results suggest that politicians respond strategically to the spread of information about government actions by changing their agenda and rhetoric, but the effects differ for opposition and incumbent parties.
 
 tags:
 - Source Themes
@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://github.com/guillelezama/slides/blob/main/audits_labor_bb.pdf'
 url_source: ''
 url_video: ''
 
