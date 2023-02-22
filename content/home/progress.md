@@ -107,7 +107,7 @@ details > p {
 
 
 
-# Work in Progress 
+
 
 ##### **"_Do Government Audits Affect Campaign Communication?_" 2023.** 
 
@@ -121,6 +121,7 @@ details > p {
 <details><summary>Abstract</summary><p>
 How do political elites in host countries respond to mass-migration crises?  While parties may slowly adapt their political agendas, crisis events may generate marked short-term reactions by political leaders. This study examines the responses of political elites in Peru to the recent influx of immigrants from Venezuela.  Using computational text-analysis methods over a corpus of over half million of tweets from the Peruvian legislators' cohort elected in 2016, we investigate the short-term impact of the crisis on immigration salience and politicians' positions before, during, and after the first mass south-south migration. Our results demonstrate that attention to immigration increased drastically for all parties in response to the crisis. Surprisingly, most of the communication was positive, with no increase in anti-immigration statements. However, with time all parties used a rhetoric more similar to the right regarding the immigration issue after the shock. Our study shows that  right-wing legislators  contributed to the salience of immigration, but so did left-wing legislators. Still, political leaders used strategic framing, with right-wing legislators focusing on the Venezuelan political crisis.  The findings have implications for policy and practice in addressing the challenges posed by such crises, contributing to our broader understanding of how political elites in host countries respond to mass-migration crises.
 .</p> </details> &nbsp; 
++++
 
 
 
